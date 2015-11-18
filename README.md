@@ -6,6 +6,7 @@ Find if any permutation of an input string is a palindrome.
 A permutation is an ordering of a set of items.
 
 Example: all permutations of 'cat':
+
 ```
 cat
 act
@@ -22,6 +23,8 @@ A palindrome is a string that's the same when read forward and backward.
 
 Examples:
 
+```
 alula
 devoved
 mom
+```
